@@ -15,6 +15,10 @@ namespace WindowsFormsApp1
         static void Main()
         {
             Application.EnableVisualStyles();
+
+
+            // check it
+
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
